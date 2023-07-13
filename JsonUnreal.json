@@ -1,0 +1,31 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "game_type": "Sit & Go",
+      "map_img": "img link",
+      "players_count": 45,
+      "registered_players": [],
+      "status": "registering",
+      "buy-in": 25
+    },
+    {
+      "id": 1,
+      "game_type": "Sit & Go",
+      "map_img": "img link",
+      "players_count": 60,
+      "registered_players": [],
+      "status": "registering",
+      "buy-in": 75
+    },
+    {
+      "id": 2,
+      "game_type": "Sit & Go",
+      "map_img": "img link",
+      "players_count": 15,
+      "registered_players": [],
+      "status": "registering",
+      "buy-in": 250
+    }
+  ]
+}
